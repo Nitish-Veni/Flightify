@@ -1,4 +1,4 @@
-# Flightigo
+# Flightify
 Developed a Real-Time Flight Booking Web App for Efficient Travel Planning and Booking.
 Provide Real-Time Flight Booking Functionality, Visualize Flight Options, Built Using HTML, CSS,
 JavaScript, PHP, and SQL.
